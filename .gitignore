@@ -1,0 +1,8 @@
+*.class
+*.DS_Store
+*.swp
+database.yml
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
